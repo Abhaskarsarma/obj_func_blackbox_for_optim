@@ -112,12 +112,15 @@ python Optimization_Toolbox.py
 
 ## Citation
 
-If this toolbox helps your research, please cite
+If you use this software in your research, please cite
 
-Bhaskar Sarma
-
-Optimization Toolbox
-
-GitHub Repository
+```bibtex
+@software{Sarma2026OptimizationToolbox,
+  author = {Bhaskar Sarma},
+  title = {Optimization Toolbox},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/Abhaskarsarma/obj_func_blackbox_for_optim}
+}
 
 ---

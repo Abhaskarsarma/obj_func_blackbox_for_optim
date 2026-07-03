@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Optimization toolbox
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Padmanabha Sarma
+    name-particle: A
+    family-names: A
+    email: a.padmanabhasarma@gmail.com
+    affiliation: >-
+      Vel Tech Rangarajan Dr. Sagunthala R&D Institute of
+      Science and Technology
+    orcid: 'https://orcid.org/0000-0001-7604-2483'
+repository-code: >-
+  https://github.com/Abhaskarsarma/obj_func_blackbox_for_optim
+abstract: >-
+  Optimization Toolbox is a Python-based framework for
+  benchmarking and visualizing metaheuristic optimization
+  algorithms using Mealpy. It supports optimization
+  trajectory visualization, convergence analysis, diversity
+  analysis, exploration-exploitation metrics, and objective
+  function landscape visualization.
+keywords:
+  - Mealpy
+  - Optimization
+  - Fitness function
+  - PSO
+license: MIT
